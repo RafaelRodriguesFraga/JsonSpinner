@@ -1,7 +1,5 @@
 package com.example.not.jsonspinner.JSON;
-
 import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
 import java.net.URL;
 
 /**
